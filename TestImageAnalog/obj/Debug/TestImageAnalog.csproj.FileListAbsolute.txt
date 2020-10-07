@@ -1,0 +1,9 @@
+C:\Users\benja\source\repos\TestImageAnalog\TestImageAnalog\bin\Debug\TestImageAnalog.exe.config
+C:\Users\benja\source\repos\TestImageAnalog\TestImageAnalog\bin\Debug\TestImageAnalog.exe
+C:\Users\benja\source\repos\TestImageAnalog\TestImageAnalog\bin\Debug\TestImageAnalog.pdb
+C:\Users\benja\source\repos\TestImageAnalog\TestImageAnalog\obj\Debug\TestImageAnalog.csprojAssemblyReference.cache
+C:\Users\benja\source\repos\TestImageAnalog\TestImageAnalog\obj\Debug\TestImageAnalog.Properties.Resources.resources
+C:\Users\benja\source\repos\TestImageAnalog\TestImageAnalog\obj\Debug\TestImageAnalog.csproj.GenerateResource.cache
+C:\Users\benja\source\repos\TestImageAnalog\TestImageAnalog\obj\Debug\TestImageAnalog.csproj.CoreCompileInputs.cache
+C:\Users\benja\source\repos\TestImageAnalog\TestImageAnalog\obj\Debug\TestImageAnalog.exe
+C:\Users\benja\source\repos\TestImageAnalog\TestImageAnalog\obj\Debug\TestImageAnalog.pdb
